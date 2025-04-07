@@ -18,7 +18,7 @@ def exibir_preco(celular):
         print("Opção inválida, por favor escolha um número entre 1 e 7.")
 
 # Função principal para o menu
-def menu():
+    menu():
     print("Bem-vindo à loja de celulares!")
     print("Escolha um celular para ver o preço:")
     print("1. iPhone 14")
@@ -35,3 +35,4 @@ def menu():
 
 # Rodando o menu
 menu()
+
