@@ -1,0 +1,2 @@
+📱 Venda de Celulares - Diversas Marcas e Preços
+Bem-vindo à nossa loja online de celulares! Oferecemos uma grande variedade de dispositivos móveis das principais marcas do mercado, com preços acessíveis para atender às suas necessidades e preferências. Neste README, você encontrará informações sobre os modelos disponíveis, preços e como realizar sua compra.
